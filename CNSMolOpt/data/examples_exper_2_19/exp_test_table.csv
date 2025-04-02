@@ -1,0 +1,2 @@
+uuid,molecule_name,molecule,scaffold,rgroups,anchor,pocket_full_size,pocket_bb_size,molecule_size,scaffold_size,rgroup_size,protein_filename,affinity
+0,obj01,OCN1CCC[C@H](C2NC3CCCCC3N2)C1,OCN1CCC[C@H](C2NC3CCCCC3N2)C1,,0,1312,332,17,17,0,/public/home/chensn/experimen/exper_2_19/pocket_10A.pdb,4
